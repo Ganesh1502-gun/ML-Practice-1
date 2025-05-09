@@ -1,0 +1,10 @@
+﻿Id,Country,Age,Salary,Purchased
+1,Germany,44,72000,Yes
+2,SPAIN,76,45000,no
+3,France,34,56000,yes
+4,Germany,45,66700,no
+5,SPAIN,43,54000,yes
+6,France,23,78000,no
+7,Germany,45,87000,yes
+8,SPAIN,65,,no
+9,France,,45000,yes
